@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Haidong 👋
 
-<!--
-**Esoteriker/Esoteriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Germany
 
-Here are some ideas to get you started:
+## Tech Stack
+- Angular
+- TypeScript
+- Spring Boot
+- Docker
+- GitLab CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+- Process Mining
+- Human-in-the-loop systems
