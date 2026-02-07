@@ -201,9 +201,9 @@ A **modern web application** showcasing full-stack development capabilities with
 
 I'm always interested in discussing **software architecture**, **system design**, or potential **collaboration opportunities**.
 
-- 📧 **Email**: [your@email.com](esoteriker.dev@gmail.com)
-- 💼 **LinkedIn**: [Your Name](https://www.linkedin.com/in/haidong-xu/)
-- 🌐 **Website/Blog**: [yourwebsite.com](https://haidong-dev.com/)
+- 📧 **Email**: [esoteriker.dev@gmail.com](esoteriker.dev@gmail.com)
+- 💼 **LinkedIn**: [Haidong Xu](https://www.linkedin.com/in/haidong-xu/)
+- 🌐 **Website/Blog**: [haidong-dev.com](https://haidong-dev.com/)
 
 ---
 
