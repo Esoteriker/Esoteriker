@@ -201,22 +201,9 @@ A **modern web application** showcasing full-stack development capabilities with
 
 I'm always interested in discussing **software architecture**, **system design**, or potential **collaboration opportunities**.
 
-- 📧 **Email**: [Your Email]
-- 💼 **LinkedIn**: [Your LinkedIn]
-- 🐦 **Twitter**: [Your Twitter]
-- 🌐 **Website/Blog**: [Your Website]
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esoteriker&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esoteriker&layout=compact&theme=radical)
-
-</div>
+- 📧 **Email**: [your@email.com](esoteriker.dev@gmail.com)
+- 💼 **LinkedIn**: [Your Name](https://www.linkedin.com/in/haidong-xu/)
+- 🌐 **Website/Blog**: [yourwebsite.com](https://haidong-dev.com/)
 
 ---
 
