@@ -1,3 +1,7 @@
+# 👨‍💻 Esoteriker
+
+Welcome to my GitHub profile! This repository serves as my professional portfolio, showcasing my journey as a software engineer specializing in scalable backend systems, microservices architectures, and full-stack development. Here you'll find an overview of my technical skills, architectural approaches, and highlighted projects that demonstrate practical implementations of modern software engineering principles.
+
 # 👋 About Me
 
 Software engineer with experience building full-stack web applications and microservice architectures. Focus on designing scalable systems with clean separation of concerns and production-ready implementations.
