@@ -57,19 +57,11 @@ A secure backend platform for connecting web workflows with multiple EDA tool se
 - Implemented async job execution, status tracking, log feedback, and authorization controls for long-running multi-user workloads.
 - Used Docker-based deployment patterns for reproducible service integration.
 
-## Tech Stack
-
-- 💻 **Languages**: TypeScript, JavaScript, Java, Python, SQL
-- 🎨 **Frontend**: React, Next.js, Angular, HTML/CSS, data visualization, WebAssembly
-- ⚙️ **Backend**: Spring Boot, FastAPI, Node.js, Express, REST APIs, microservices, async jobs
-- 🤖 **AI/LLM**: OpenAI API, model API integration, RAG, embeddings, tool-calling patterns, retry/fallback design
-- 🚢 **Delivery**: Docker, Linux, Git, GitHub/GitLab, GitLab CI/CD, Cypress, Jira, Swagger/OpenAPI
-
 ## 🎓 Education
 
 - **M.Sc. Information Systems**, Technical University of Munich
 - **B.Sc. Business Informatics**, University of Goettingen
-- [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/KBW6N2Q3ZGBY)
 
 ## 📫 Connect
 
