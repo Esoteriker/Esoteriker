@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Haidong Xu
+# 👋 Hi, I'm Haidong Xu
 
-**Full-Stack / AI Product Engineer**
+**Full-Stack / AI Product Engineer** 🚀
 
-I build reliable product systems across TypeScript frontends, Java/Python backend services, AI-assisted workflows, and data-heavy engineering tools.
+I build reliable product systems across TypeScript frontends, Java/Python backend services, AI-assisted workflows, and data-heavy engineering tools. ✨
 
 [![GitHub followers](https://img.shields.io/github/followers/Esoteriker?style=social)](https://github.com/Esoteriker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haidong%20Xu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidong-xu/)
@@ -14,20 +14,20 @@ I build reliable product systems across TypeScript frontends, Java/Python backen
 
 ---
 
-## About
+## 👋 About
 
 I'm a software engineer focused on turning complex workflows into practical, maintainable products. My current work spans full-stack feature delivery, backend API design, service integration, AI/LLM workflow integration, and production quality ownership.
 
 I like systems that are clear at the boundary: typed interfaces, explicit API contracts, observable failures, resilient async execution, and UI flows that make complex work feel understandable.
 
-## What I Work On
+## 🧭 What I Work On
 
-- **AI-assisted product workflows**: model API integration, retrieval/explanation flows, prompt iteration, retry/fallback behavior, and production-oriented debugging.
-- **Backend and service systems**: Java, Python, Spring Boot, FastAPI, Node.js, REST APIs, microservices, async jobs, authentication, and service orchestration.
-- **Frontend product engineering**: TypeScript, React, Next.js, Angular, data visualization, reusable component systems, and WebAssembly integration.
-- **Quality and delivery**: Cypress, CI/CD, release workflows, logging, monitoring, API reviews, code reviews, and production issue triage.
+- 🤖 **AI-assisted product workflows**: model API integration, retrieval/explanation flows, prompt iteration, retry/fallback behavior, and production-oriented debugging.
+- ⚙️ **Backend and service systems**: Java, Python, Spring Boot, FastAPI, Node.js, REST APIs, microservices, async jobs, authentication, and service orchestration.
+- 🎨 **Frontend product engineering**: TypeScript, React, Next.js, Angular, data visualization, reusable component systems, and WebAssembly integration.
+- 🧪 **Quality and delivery**: Cypress, CI/CD, release workflows, logging, monitoring, API reviews, code reviews, and production issue triage.
 
-## Current Experience
+## 💼 Current Experience
 
 **Software Engineer, Siemens Digital Industries Software**<br>
 _Goettingen, Germany | 08.2022 - Present_
@@ -38,44 +38,39 @@ _Goettingen, Germany | 08.2022 - Present_
 - Building reliable orchestration and asynchronous task-processing flows with retry, timeout, error propagation, status tracking, and recoverable execution paths.
 - Reusing performance-critical C++ logic through WebAssembly integration in frontend runtimes to reduce duplicate implementations and maintenance cost.
 
-## Selected Work
+## 🧩 Selected Work
 
-### [WFP Hunger-Map](https://www.wfp.org/hunger-map)
+### 🌍 [WFP Hunger-Map](https://www.wfp.org/hunger-map)
 A data-rich full-stack web application built with Next.js and TypeScript.
 
 - Built clear boundaries across presentation, business logic, API integration, and data-access layers.
 - Designed backend APIs and data aggregation flows for multi-source workflows.
 - Integrated external AI services for explanation and summary enhancement with caching, rate limiting, retry, and graceful degradation.
 
-### EDA Task Orchestration Platform
+### 🔒 EDA Task Orchestration Platform
 A secure backend platform for connecting web workflows with multiple EDA tool services.
+
+_Private/internal project, so the source code and detailed product context are not publicly available._
 
 - Designed modular backend domains for users, projects, tasks, and logging.
 - Implemented async job execution, status tracking, log feedback, and authorization controls for long-running multi-user workloads.
 - Used Docker-based deployment patterns for reproducible service integration.
 
-### Internal Developer Tooling
-Reusable product infrastructure for frontend teams.
+## 🛠️ Tech Stack
 
-- Built and maintained an internal NPM UI component package with typed TypeScript APIs, reusable design primitives, release flow, and adoption conventions.
-- Standardized component APIs, state patterns, and integration guidelines across product modules.
-- Improved complex data-visualization runtime performance by 18% through rendering and data-flow refactoring.
+- 💻 **Languages**: TypeScript, JavaScript, Java, Python, SQL
+- 🎨 **Frontend**: React, Next.js, Angular, HTML/CSS, data visualization, WebAssembly
+- ⚙️ **Backend**: Spring Boot, FastAPI, Node.js, Express, REST APIs, microservices, async jobs
+- 🤖 **AI/LLM**: OpenAI API, model API integration, RAG, embeddings, tool-calling patterns, retry/fallback design
+- 🚢 **Delivery**: Docker, Linux, Git, GitHub/GitLab, GitLab CI/CD, Cypress, Jira, Swagger/OpenAPI
 
-## Tech Stack
-
-- **Languages**: TypeScript, JavaScript, Java, Python, SQL
-- **Frontend**: React, Next.js, Angular, HTML/CSS, data visualization, WebAssembly
-- **Backend**: Spring Boot, FastAPI, Node.js, Express, REST APIs, microservices, async jobs
-- **AI/LLM**: OpenAI API, model API integration, RAG, embeddings, tool-calling patterns, retry/fallback design
-- **Delivery**: Docker, Linux, Git, GitHub/GitLab, GitLab CI/CD, Cypress, Jira, Swagger/OpenAPI
-
-## Education
+## 🎓 Education
 
 - **M.Sc. Information Systems**, Technical University of Munich
 - **B.Sc. Business Informatics**, University of Goettingen
 - **Google Data Analytics Professional Certificate**
 
-## Connect
+## 📫 Connect
 
 - Email: [esoteriker.dev@gmail.com](mailto:esoteriker.dev@gmail.com)
 - LinkedIn: [Haidong Xu](https://www.linkedin.com/in/haidong-xu/)
@@ -85,6 +80,6 @@ Reusable product infrastructure for frontend teams.
 
 <div align="center">
 
-I care about product clarity, reliable systems, and engineering work that stays understandable after it ships.
+I care about product clarity, reliable systems, and engineering work that stays understandable after it ships. 🌱
 
 </div>
