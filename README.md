@@ -50,13 +50,14 @@ A data-rich full-stack web application built with Next.js and TypeScript.
 ### 🔒 EDA Task Orchestration Platform
 A secure backend platform for connecting web workflows with multiple EDA tool services.
 
-_Private/internal project, so the source code and detailed product context are not publicly available._
+> [!NOTE]
+> Private/internal project. Source code and detailed product context are not publicly available.
 
 - Designed modular backend domains for users, projects, tasks, and logging.
 - Implemented async job execution, status tracking, log feedback, and authorization controls for long-running multi-user workloads.
 - Used Docker-based deployment patterns for reproducible service integration.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - 💻 **Languages**: TypeScript, JavaScript, Java, Python, SQL
 - 🎨 **Frontend**: React, Next.js, Angular, HTML/CSS, data visualization, WebAssembly
@@ -68,7 +69,7 @@ _Private/internal project, so the source code and detailed product context are n
 
 - **M.Sc. Information Systems**, Technical University of Munich
 - **B.Sc. Business Informatics**, University of Goettingen
-- **Google Data Analytics Professional Certificate**
+- [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ## 📫 Connect
 
