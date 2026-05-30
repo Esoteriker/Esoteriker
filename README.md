@@ -34,7 +34,8 @@ Turning AI ideas into practical tools for real users.
 
 ## 💼 Now
 
-**Siemens Digital Industries Software** · Advanced Software Engineer
+- **Windorion** · Founder
+- **Siemens Digital Industries Software** · Advanced Software Engineer
 
 <details>
 <summary>🎓 Education & certificate</summary>
