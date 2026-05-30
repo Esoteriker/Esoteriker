@@ -10,7 +10,7 @@ Turning AI ideas into practical tools for real users.
 
 [![GitHub followers](https://img.shields.io/github/followers/Esoteriker?style=social)](https://github.com/Esoteriker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haidong%20Xu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidong-xu/)
-[![Blog](https://img.shields.io/badge/About%20Me-openblog--chi.vercel.app-2ea44f?style=flat)](https://openblog-chi.vercel.app/)
+[![Blog](https://img.shields.io/badge/About%20Me-haidong--dev.com-2ea44f?style=flat)](https://haidong-dev.com/)
 
 </div>
 
@@ -50,4 +50,4 @@ Turning AI ideas into practical tools for real users.
 
 [![Email](https://img.shields.io/badge/Email-esoteriker.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esoteriker.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haidong%20Xu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haidong-xu/)
-[![About Me](https://img.shields.io/badge/About_Me-openblog--chi.vercel.app-2ea44f?style=for-the-badge)](https://openblog-chi.vercel.app/)
+[![About Me](https://img.shields.io/badge/About_Me-haidong--dev.com-2ea44f?style=for-the-badge)](https://haidong-dev.com/)
